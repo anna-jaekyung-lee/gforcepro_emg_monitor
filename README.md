@@ -48,7 +48,7 @@ This tool strips it back to what matters for live monitoring:
 pip install bleak numpy pyqtgraph PyQt5
 ```
 
-Python 3.8+. Tested on Windows 11.
+Python 3.8+. Tested on Windows 11 and macOS. Note: on macOS, observed sample rate may be slightly lower (~900 Hz) due to differences in the BLE stack compared to Windows.
 
 ---
 
