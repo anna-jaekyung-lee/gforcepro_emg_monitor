@@ -14,7 +14,7 @@ A companion tool to [gforcepro_emg_collector](https://github.com/anna-jaekyung-l
 
 ## Why a Separate Tool?
 
-The original collector (`collect_emg.py`) is feature-rich — filters, IMU, baseline correction, configurable settings. Great for data collection sessions.
+The original collector (`collect_emg.py`) is feature-rich: filters, IMU, baseline correction, configurable settings. Great for data collection sessions.
 
 But when you just want to **see the signal in real time**, such as check electrode contact, verify muscle activation, and monitor during experiments, all those settings get in the way.
 
