@@ -79,7 +79,7 @@ gforce.py            — gForcePRO BLE SDK wrapper (bug-fixed)
 
 ## Related
 
-- [gforcepro_emg_collector](https://github.com/anna-jaekyung-lee/gforcepro_emg_collector) — Full-featured data collection tool (filters, IMU, baseline correction)
+- [gforcepro_emg_collector](https://github.com/anna-jaekyung-lee/gforcepro_emg_collector) : Full-featured data collection tool (filters, IMU, baseline correction)
 
 ---
 
