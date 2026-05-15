@@ -73,7 +73,7 @@ collect_emg_v2.py    — Main application
 gforce.py            — gForcePRO BLE SDK wrapper (bug-fixed)
 ```
 
-`gforce.py` is shared with the collector repo — same bug-fixed version.
+`gforce.py` is shared with the collector repo, same bug-fixed version.
 
 ---
 
